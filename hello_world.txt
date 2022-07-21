@@ -1,2 +1,3 @@
 Hello World !
 I'm looking forward to learning more about computers.
+It's been pretty interesting so far, learning about the command line.
